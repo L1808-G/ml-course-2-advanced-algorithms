@@ -31,9 +31,3 @@ El enfoque del curso es profundizar en algoritmos más avanzados de aprendizaje 
 
 ## Enfoque de aprendizaje
 Cada notebook está diseñado para reforzar la comprensión práctica de los algoritmos, explicando no solo cómo implementarlos, sino también por qué se toman ciertas decisiones durante el entrenamiento, la evaluación y el ajuste de los modelos.
-
-## Sobre la especialización
-La Especialización en Aprendizaje Automático, creada por Andrew Ng, ofrece una base moderna y práctica en aprendizaje automático e inteligencia artificial aplicada, combinando fundamentos teóricos con implementación en escenarios reales.
-
-
-
